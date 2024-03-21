@@ -1,0 +1,12 @@
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\obj\Debug\net8.0\Geometrie.DAL.csproj.AssemblyReference.cache
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\obj\Debug\net8.0\Geometrie.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\obj\Debug\net8.0\Geometrie.DAL.AssemblyInfoInputs.cache
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\obj\Debug\net8.0\Geometrie.DAL.AssemblyInfo.cs
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\obj\Debug\net8.0\Geometrie.DAL.csproj.CoreCompileInputs.cache
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\bin\Debug\net8.0\Geometrie.DAL.deps.json
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\bin\Debug\net8.0\Geometrie.DAL.dll
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\bin\Debug\net8.0\Geometrie.DAL.pdb
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\obj\Debug\net8.0\Geometrie.DAL.dll
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\obj\Debug\net8.0\refint\Geometrie.DAL.dll
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\obj\Debug\net8.0\Geometrie.DAL.pdb
+C:\Users\miste\source\repos\LesBasesDuCS\Geometrie.DAL\obj\Debug\net8.0\ref\Geometrie.DAL.dll

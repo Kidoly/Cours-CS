@@ -1,0 +1,4 @@
+C:\Users\miste\source\repos\LesBasesDuCS\DelegateEtGeneric\obj\Debug\net8.0\DelegateEtGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\source\repos\LesBasesDuCS\DelegateEtGeneric\obj\Debug\net8.0\DelegateEtGeneric.AssemblyInfoInputs.cache
+C:\Users\miste\source\repos\LesBasesDuCS\DelegateEtGeneric\obj\Debug\net8.0\DelegateEtGeneric.AssemblyInfo.cs
+C:\Users\miste\source\repos\LesBasesDuCS\DelegateEtGeneric\obj\Debug\net8.0\DelegateEtGeneric.csproj.CoreCompileInputs.cache

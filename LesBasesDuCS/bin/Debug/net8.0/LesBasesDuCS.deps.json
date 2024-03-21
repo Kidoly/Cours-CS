@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LesBasesDuCS/1.0.0": {
+        "runtime": {
+          "LesBasesDuCS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LesBasesDuCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05E3BD3A-8B2D-4DE5-876B-3665A577B881}|Geometrie.DAL.Tests\\Geometrie.DAL.Tests.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.dal.tests\\depot_dal_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E3BD3A-8B2D-4DE5-876B-3665A577B881}|Geometrie.DAL.Tests\\Geometrie.DAL.Tests.csproj|solutionrelative:geometrie.dal.tests\\depot_dal_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E3BD3A-8B2D-4DE5-876B-3665A577B881}|Geometrie.DAL.Tests\\Geometrie.DAL.Tests.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.dal.tests\\point_dal_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E3BD3A-8B2D-4DE5-876B-3665A577B881}|Geometrie.DAL.Tests\\Geometrie.DAL.Tests.csproj|solutionrelative:geometrie.dal.tests\\point_dal_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E3BD3A-8B2D-4DE5-876B-3665A577B881}|Geometrie.DAL.Tests\\Geometrie.DAL.Tests.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.dal.tests\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05E3BD3A-8B2D-4DE5-876B-3665A577B881}|Geometrie.DAL.Tests\\Geometrie.DAL.Tests.csproj|solutionrelative:geometrie.dal.tests\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB1B4CA-34A8-4C07-ABD1-1ABC1872C570}|Geometrie.DAL\\Geometrie.DAL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.dal\\depot_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB1B4CA-34A8-4C07-ABD1-1ABC1872C570}|Geometrie.DAL\\Geometrie.DAL.csproj|solutionrelative:geometrie.dal\\depot_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB1B4CA-34A8-4C07-ABD1-1ABC1872C570}|Geometrie.DAL\\Geometrie.DAL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.dal\\point_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB1B4CA-34A8-4C07-ABD1-1ABC1872C570}|Geometrie.DAL\\Geometrie.DAL.csproj|solutionrelative:geometrie.dal\\point_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251BBDE4-0C4C-4D43-B0FD-12BE3F8F0F0E}|LesBasesDuCS\\LesBasesDuCS.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\lesbasesducs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251BBDE4-0C4C-4D43-B0FD-12BE3F8F0F0E}|LesBasesDuCS\\LesBasesDuCS.csproj|solutionrelative:lesbasesducs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB1B4CA-34A8-4C07-ABD1-1ABC1872C570}|Geometrie.DAL\\Geometrie.DAL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.dal\\app.sample.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DB1B4CA-34A8-4C07-ABD1-1ABC1872C570}|Geometrie.DAL\\Geometrie.DAL.csproj|solutionrelative:geometrie.dal\\app.sample.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.bll\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|solutionrelative:geometrie.bll\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.bll\\polygone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|solutionrelative:geometrie.bll\\polygone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB1B4CA-34A8-4C07-ABD1-1ABC1872C570}|Geometrie.DAL\\Geometrie.DAL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.dal\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DB1B4CA-34A8-4C07-ABD1-1ABC1872C570}|Geometrie.DAL\\Geometrie.DAL.csproj|solutionrelative:geometrie.dal\\app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB1B4CA-34A8-4C07-ABD1-1ABC1872C570}|Geometrie.DAL\\Geometrie.DAL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.dal\\idepot_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB1B4CA-34A8-4C07-ABD1-1ABC1872C570}|Geometrie.DAL\\Geometrie.DAL.csproj|solutionrelative:geometrie.dal\\idepot_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7092CF1E-8EE0-4158-9C52-A3D7C30F4C51}|Geometrie.BLL.Console\\Geometrie.BLL.Console.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.bll.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7092CF1E-8EE0-4158-9C52-A3D7C30F4C51}|Geometrie.BLL.Console\\Geometrie.BLL.Console.csproj|solutionrelative:geometrie.bll.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.bll\\iforme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|solutionrelative:geometrie.bll\\iforme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4DF060-6DB0-444E-9652-469AF7FE31C9}|Geometrie.DTO\\Geometrie.DTO.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4DF060-6DB0-444E-9652-469AF7FE31C9}|Geometrie.DTO\\Geometrie.DTO.csproj|solutionrelative:geometrie.dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770F8A48-0FB4-4629-BB1E-4849D00472F0}|Geometrie.Services\\Geometrie.Services.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770F8A48-0FB4-4629-BB1E-4849D00472F0}|Geometrie.Services\\Geometrie.Services.csproj|solutionrelative:geometrie.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E78FFC-5821-44BB-8407-BCC9834421FE}|DelegateEtGeneric\\DelegateEtGeneric.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\delegateetgeneric\\chaton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E78FFC-5821-44BB-8407-BCC9834421FE}|DelegateEtGeneric\\DelegateEtGeneric.csproj|solutionrelative:delegateetgeneric\\chaton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251BBDE4-0C4C-4D43-B0FD-12BE3F8F0F0E}|LesBasesDuCS\\LesBasesDuCS.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\lesbasesducs\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251BBDE4-0C4C-4D43-B0FD-12BE3F8F0F0E}|LesBasesDuCS\\LesBasesDuCS.csproj|solutionrelative:lesbasesducs\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E78FFC-5821-44BB-8407-BCC9834421FE}|DelegateEtGeneric\\DelegateEtGeneric.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\delegateetgeneric\\delegatequicomparedeuxtrucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E78FFC-5821-44BB-8407-BCC9834421FE}|DelegateEtGeneric\\DelegateEtGeneric.csproj|solutionrelative:delegateetgeneric\\delegatequicomparedeuxtrucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E78FFC-5821-44BB-8407-BCC9834421FE}|DelegateEtGeneric\\DelegateEtGeneric.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\delegateetgeneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E78FFC-5821-44BB-8407-BCC9834421FE}|DelegateEtGeneric\\DelegateEtGeneric.csproj|solutionrelative:delegateetgeneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251BBDE4-0C4C-4D43-B0FD-12BE3F8F0F0E}|LesBasesDuCS\\LesBasesDuCS.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\lesbasesducs\\joursdelasemaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251BBDE4-0C4C-4D43-B0FD-12BE3F8F0F0E}|LesBasesDuCS\\LesBasesDuCS.csproj|solutionrelative:lesbasesducs\\joursdelasemaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.bll\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|solutionrelative:geometrie.bll\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.bll\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|solutionrelative:geometrie.bll\\cercle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.bll\\quadrilatere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|solutionrelative:geometrie.bll\\quadrilatere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|c:\\users\\miste\\source\\repos\\lesbasesducs\\geometrie.bll\\polygoneexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90291F9-47D1-401B-B9F1-D6528DDE2F96}|Geometrie.BLL\\Geometrie.BLL.csproj|solutionrelative:geometrie.bll\\polygoneexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.json",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL.Tests\\app.json",
+              "RelativeDocumentMoniker": "Geometrie.DAL.Tests\\app.json",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL.Tests\\app.json",
+              "RelativeToolTip": "Geometrie.DAL.Tests\\app.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T09:47:34.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point_DAL_Test.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL.Tests\\Point_DAL_Test.cs",
+              "RelativeDocumentMoniker": "Geometrie.DAL.Tests\\Point_DAL_Test.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL.Tests\\Point_DAL_Test.cs",
+              "RelativeToolTip": "Geometrie.DAL.Tests\\Point_DAL_Test.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwDUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:23:03.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Depot_DAL_Test.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL.Tests\\Depot_DAL_Test.cs",
+              "RelativeDocumentMoniker": "Geometrie.DAL.Tests\\Depot_DAL_Test.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL.Tests\\Depot_DAL_Test.cs",
+              "RelativeToolTip": "Geometrie.DAL.Tests\\Depot_DAL_Test.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:51:53.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Depot_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL\\Depot_DAL.cs",
+              "RelativeDocumentMoniker": "Geometrie.DAL\\Depot_DAL.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL\\Depot_DAL.cs",
+              "RelativeToolTip": "Geometrie.DAL\\Depot_DAL.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T14:30:00.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.json",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL\\app.json",
+              "RelativeDocumentMoniker": "Geometrie.DAL\\app.json",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL\\app.json",
+              "RelativeToolTip": "Geometrie.DAL\\app.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T13:42:44.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Polygone.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\Polygone.cs",
+              "RelativeDocumentMoniker": "Geometrie.BLL\\Polygone.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\Polygone.cs",
+              "RelativeToolTip": "Geometrie.BLL\\Polygone.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAA4wFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:44:47.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.sample.json",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL\\app.sample.json",
+              "RelativeDocumentMoniker": "Geometrie.DAL\\app.sample.json",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL\\app.sample.json",
+              "RelativeToolTip": "Geometrie.DAL\\app.sample.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T13:50:10.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Point_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL\\Point_DAL.cs",
+              "RelativeDocumentMoniker": "Geometrie.DAL\\Point_DAL.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL\\Point_DAL.cs",
+              "RelativeToolTip": "Geometrie.DAL\\Point_DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:04:38.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDepot_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL\\IDepot_DAL.cs",
+              "RelativeDocumentMoniker": "Geometrie.DAL\\IDepot_DAL.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DAL\\IDepot_DAL.cs",
+              "RelativeToolTip": "Geometrie.DAL\\IDepot_DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:30:56.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\LesBasesDuCS\\Program.cs",
+              "RelativeDocumentMoniker": "LesBasesDuCS\\Program.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\LesBasesDuCS\\Program.cs",
+              "RelativeToolTip": "LesBasesDuCS\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwCwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:53:10.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\Point.cs",
+              "RelativeDocumentMoniker": "Geometrie.BLL\\Point.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\Point.cs",
+              "RelativeToolTip": "Geometrie.BLL\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:07:44.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IForme.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\IForme.cs",
+              "RelativeDocumentMoniker": "Geometrie.BLL\\IForme.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\IForme.cs",
+              "RelativeToolTip": "Geometrie.BLL\\IForme.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:02:59.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Geometrie.BLL.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL.Console\\Program.cs",
+              "RelativeToolTip": "Geometrie.BLL.Console\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowDAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:30:33.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "Geometrie.DTO\\Class1.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.DTO\\Class1.cs",
+              "RelativeToolTip": "Geometrie.DTO\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:12:57.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\LesBasesDuCS\\Extensions.cs",
+              "RelativeDocumentMoniker": "LesBasesDuCS\\Extensions.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\LesBasesDuCS\\Extensions.cs",
+              "RelativeToolTip": "LesBasesDuCS\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:21:42.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Geometrie.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.Services\\Class1.cs",
+              "RelativeToolTip": "Geometrie.Services\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T10:11:43.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Chaton.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\DelegateEtGeneric\\Chaton.cs",
+              "RelativeDocumentMoniker": "DelegateEtGeneric\\Chaton.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\DelegateEtGeneric\\Chaton.cs",
+              "RelativeToolTip": "DelegateEtGeneric\\Chaton.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:39:12.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DelegateQuiCompareDeuxTrucs.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\DelegateEtGeneric\\DelegateQuiCompareDeuxTrucs.cs",
+              "RelativeDocumentMoniker": "DelegateEtGeneric\\DelegateQuiCompareDeuxTrucs.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\DelegateEtGeneric\\DelegateQuiCompareDeuxTrucs.cs",
+              "RelativeToolTip": "DelegateEtGeneric\\DelegateQuiCompareDeuxTrucs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:29:48.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\DelegateEtGeneric\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateEtGeneric\\Program.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\DelegateEtGeneric\\Program.cs",
+              "RelativeToolTip": "DelegateEtGeneric\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:45:32.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JoursDeLaSemaine.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\LesBasesDuCS\\JoursDeLaSemaine.cs",
+              "RelativeDocumentMoniker": "LesBasesDuCS\\JoursDeLaSemaine.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\LesBasesDuCS\\JoursDeLaSemaine.cs",
+              "RelativeToolTip": "LesBasesDuCS\\JoursDeLaSemaine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:14:35.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\Triangle.cs",
+              "RelativeDocumentMoniker": "Geometrie.BLL\\Triangle.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\Triangle.cs",
+              "RelativeToolTip": "Geometrie.BLL\\Triangle.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:34:30.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Quadrilatere.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\Quadrilatere.cs",
+              "RelativeDocumentMoniker": "Geometrie.BLL\\Quadrilatere.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\Quadrilatere.cs",
+              "RelativeToolTip": "Geometrie.BLL\\Quadrilatere.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:48:47.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PolygoneException.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\PolygoneException.cs",
+              "RelativeDocumentMoniker": "Geometrie.BLL\\PolygoneException.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\PolygoneException.cs",
+              "RelativeToolTip": "Geometrie.BLL\\PolygoneException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:25:41.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cercle.cs",
+              "DocumentMoniker": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\Cercle.cs",
+              "RelativeDocumentMoniker": "Geometrie.BLL\\Cercle.cs",
+              "ToolTip": "C:\\Users\\miste\\source\\repos\\LesBasesDuCS\\Geometrie.BLL\\Cercle.cs",
+              "RelativeToolTip": "Geometrie.BLL\\Cercle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:09:16.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\bin\Debug\net8.0\LesBasesDuCS.exe
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\bin\Debug\net8.0\LesBasesDuCS.deps.json
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\bin\Debug\net8.0\LesBasesDuCS.runtimeconfig.json
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\bin\Debug\net8.0\LesBasesDuCS.dll
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\bin\Debug\net8.0\LesBasesDuCS.pdb
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\obj\Debug\net8.0\LesBasesDuCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\obj\Debug\net8.0\LesBasesDuCS.AssemblyInfoInputs.cache
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\obj\Debug\net8.0\LesBasesDuCS.AssemblyInfo.cs
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\obj\Debug\net8.0\LesBasesDuCS.csproj.CoreCompileInputs.cache
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\obj\Debug\net8.0\LesBasesDuCS.dll
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\obj\Debug\net8.0\refint\LesBasesDuCS.dll
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\obj\Debug\net8.0\LesBasesDuCS.pdb
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\obj\Debug\net8.0\LesBasesDuCS.genruntimeconfig.cache
+C:\Users\miste\source\repos\LesBasesDuCS\LesBasesDuCS\obj\Debug\net8.0\ref\LesBasesDuCS.dll
