@@ -1,0 +1,6 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/Geometrie.DAL/app.json
+/Geometrie.DAL.Tests/app.json
